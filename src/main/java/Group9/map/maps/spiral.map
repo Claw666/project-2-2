@@ -1,0 +1,53 @@
+gameMode = 0
+height = 200
+width = 300
+numGuards = 3
+numIntruders = 1
+captureDistance = 2
+winConditionIntruderRounds = 1
+maxRotationAngle = 45.0
+maxMoveDistanceIntruder = 1.4
+maxSprintDistanceIntruder = 4.0
+maxMoveDistanceGuard = 1.4
+sprintCooldown = 2
+pheromoneCooldown = 3
+radiusPheromone = 5.0
+slowDownModifierWindow = 0.5
+slowDownModifierDoor = 0.5
+slowDownModifierSentryTower = 0.1
+viewAngle = 45.0
+viewRays = 45
+viewRangeIntruderNormal = 7.5
+viewRangeIntruderShaded = 4.0
+viewRangeGuardNormal = 6.0
+viewRangeGuardShaded = 3.5
+viewRangeSentry = 2.0, 20.0
+yellSoundRadius = 30.0
+maxMoveSoundRadius = 10.0
+windowSoundRadius = 10.0
+doorSoundRadius = 5.0
+pheromoneExpireRounds = 5
+
+wall = 0.0,0.0,289.9833,0.0,289.9833,4.2333,0.0,4.2333
+wall = 0.1988,0.0,4.0794,0.0,4.0794,194.0278,0.1988,194.0278
+wall = 4.0794,190.1472,291.2405,190.1472,291.2405,194.0278,4.0794,194.0278
+wall = 287.3599,0.0,291.2405,0.0,291.2405,194.0278,287.3599,194.0278
+
+spawnAreaIntruders = 4.2333,4.2333,44.45,4.2333,44.45,190.5,4.2333,190.5
+spawnAreaGuards = 135.3251,67.7333,211.6667,67.7333,211.6667,95.25,135.3251,95.25
+targetArea = 114.3,69.85,129.1167,69.85,129.1167,93.1333,114.3,93.1333
+
+wall = 48,158.75,232.8333,158.75,232.8333,162.9833,48,162.9833
+wall = 44.45,14.8167,48.6833,14.8167,48.6833,162.9833,44.45,162.9833
+wall = 243.4167,31.75,247.65,31.75,247.65,175.6833,243.4167,175.6833
+wall = 91.0167,31.75,244,31.75,244,35.9833,91.0167,35.9833
+wall = 76.2,19.05,80.4333,19.05,80.4333,131.2333,76.2,131.2333
+wall = 80,127.0,201.0833,127.0,201.0833,131.2333,80,131.2333
+
+wall = 211.6667,63.5,215.9,63.5,215.9,143.9333,211.6667,143.9333
+wall = 107.95,63.5,213,63.5,213,67.7333,107.95,67.7333
+wall = 131.2333,67.7333,135.4667,67.7333,135.4667,76.2,131.2333,76.2
+wall = 107.95,63.5,112.1833,63.5,112.1833,99.4833,107.95,99.4833
+wall = 110.0667,95.25,186.2667,95.25,186.2667,99.4833,110.0667,99.4833
+wall = 190.5,143.9333,215.9,143.9333,215.9,148.1667,190.5,148.1667
+wall = 222.25,175.6833,247.65,175.6833,247.65,179.9167,222.25,179.9167

@@ -1,0 +1,27 @@
+.title {
+	-fx-font: 80px Bliss;
+}
+
+.title_2 {
+	-fx-font-size: 2em Bliss;
+}
+
+.subTitle {
+	-fx-font: 30px Bliss;
+}
+
+.button {
+  	-fx-background-color:transparent;
+}
+
+.button:hover {
+ 	-fx-background-color:#dae7f3;
+}
+
+.menuLabel {
+    -fx-font-size: 2em;
+}
+
+.linear-grad{
+   -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #7fd276, #2cb685);
+}
